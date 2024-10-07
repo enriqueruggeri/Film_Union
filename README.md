@@ -5,7 +5,7 @@ Machine Learning for Texts: IMDB Movie Review Classification Models
 ## Descripción del Proyecto
 En este sprint, se implementaron y evaluaron múltiples modelos avanzados de clasificación de texto, incluyendo LightGBM, Random Forest y Logistic Regression. El objetivo principal fue optimizar el rendimiento del modelo en la clasificación de reseñas, utilizando técnicas de procesamiento de texto con spaCy y TF-IDF.
 
-Objetivo
+### Objetivo
 Desarrollar y evaluar modelos de clasificación de texto avanzados para mejorar el rendimiento en la clasificación de reseñas, con un enfoque en la precisión y capacidad de generalización del modelo. Se buscó alcanzar un F1 Score superior a 0.85 en el conjunto de prueba.
 
 Etapas del Proyecto
