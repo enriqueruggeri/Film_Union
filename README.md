@@ -22,5 +22,15 @@ Desarrollar y evaluar modelos de clasificación de texto avanzados para mejorar 
   - spaCy: Procesamiento de texto para normalización.
   - TF-IDF: Vectorización de texto.
 
+### Conclusiones
+Podemos indicar que las métricas de rendimiento son importantes, pero también es crucial evaluar cómo los modelos se comportan con ejemplos reales y manuales, de manera de obtener una visión completa de su capacidad de generalización y precisión.
+
+Con respecto a los resultados de los dintintos modelos utlizados, podemos indicar que:
+  - Regresión Logística: Aunque tuvo menor rendimiento en algunas métricas comparado con los otros dos modelos, mostró una buena capacidad de generalización y consistencia en las pruebas manuales.
+  - Bosque Aleatorio: Aunque mostró excelentes métricas de rendimiento, su desempeño en las pruebas manuales reveló posibles problemas de sobreajuste y sensibilidad a palabras específicas.
+  - LightGBM: Mostró un buen equilibrio entre rendimiento y generalización, con una alta consistencia en las pruebas manuales y métricas robustas en las evaluaciones.
+
+
+
 
 
